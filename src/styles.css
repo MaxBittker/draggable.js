@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+body,
+html {
+  height: -webkit-fill-available;
+}
+.draggable {
+  /* filter: drop-shadow(1px 1px 3px white); */
+}
+
+.caterpillar {
+  width: 200px;
+  top: 60%;
+}
